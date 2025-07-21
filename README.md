@@ -50,6 +50,7 @@ If the installation doesn't go smoothly, read [here](docs/installation.md). Read
     - [Run from source code](docs/installation.md#running-bgpalerter-from-the-source-code)
     - [Build Debian Package](docs/installation.md#build-debian-package)
     - [Run in Docker](docs/installation.md#running-bgpalerter-in-docker)
+    - [Deploy on Microsoft Azure](docs/azure-deployment.md)
     - [Run as a Linux service](docs/linux-service.md)
     - [Command line options](docs/installation.md#bgpalerter-parameters)
 - [Monitored prefixes list](docs/prefixes.md#prefixes)
